@@ -34,7 +34,7 @@ function addUser(newUser){
 }
 const newUser = {
     login: "Sophie Hatter",
-    avatar_url: "http://picsim.photos/200/300",
+    avatar_url: "https://thicc.mywaifulist.moe/waifus/18127/7b673b37bc9076e7872b5259d5a61c7bf067c8ffb37a39409578fbe58c6cb9ab_thumb.jpg"
 }
 
 // PUT
@@ -52,7 +52,7 @@ function updateUser(updatedUser){
 }
 const updatedUser = {
     login: "Howl Jenkins",
-    avatar_url: "http://picsim.photos/200/300"
+    avatar_url: "https://i.pinimg.com/564x/e2/9c/d3/e29cd3781b81ff5ea769087761a55255.jpg"
 }
 
 // DELETE
